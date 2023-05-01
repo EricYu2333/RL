@@ -1,0 +1,7 @@
+GWURL = "https://www.notexponential.com/aip2pgaming/api/rl/gw.php"
+SCOREURL = "https://www.notexponential.com/aip2pgaming/api/rl/score.php"
+RESETURL = "https://www.notexponential.com/aip2pgaming/api/rl/reset.php"
+OTP = "5712768807"
+TEAMID = "1384"
+USERID = "1202"
+APIKEY = "b0172893527169a71334"
